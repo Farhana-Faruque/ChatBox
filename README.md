@@ -42,7 +42,9 @@ Make sure you have **Node.js** installed:
 node -v
 npm -v
 
-##  Setup Project
+---
+
+###  Setup Project
 1. Clone the repository
   git clone https://github.com/Farhana-Faruque/ChatBox.git
 2. Navigate into project directory
@@ -53,4 +55,5 @@ npm -v
   npm start
 5. Open in browser
   http://localhost:3000
+
 
