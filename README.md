@@ -1,5 +1,5 @@
 # ChatBox
-A **real-time chat application** built with modern web technologies — simple, responsive, and fun to use! 
+A **real-time chatbox application** built with modern web technologies — simple, responsive, and fun to use! 
 
 ---
 
