@@ -24,7 +24,8 @@ io.on('connection', (socket) => {
     });
 
     socket.on('chat message', (msg) => {
-        io.emit('chat message', { user: socket.username, text: msg });
+        const emoji = msg + " :3";
+        io.emit('chat message', { user: socket.username, text: emoji });
     });
 
     socket.on('disconnect', () => {
