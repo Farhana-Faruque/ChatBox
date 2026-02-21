@@ -41,3 +41,30 @@ Make sure you have **Node.js** installed:
 node -v
 npm -v
 
+---
+
+## 📸 Application Preview
+
+### 🏠 Chat Interface
+![Chat Interface](./images/chat-interface.png)
+*Main chat screen where users can send and receive messages instantly.*
+
+---
+
+### 💬 Sending Messages
+![Sending Message](./images/sending-message.png)
+*User typing and sending a message in a chat room.*
+
+---
+
+### 🏷️ Joining a Chat Room
+![Join Room](./images/join-room.png)
+*Users can enter their name and join different chat rooms.*
+
+---
+
+### 📱 Responsive Design
+![Responsive View](./images/responsive-view.png)
+*ChatBox layout adapts smoothly to mobile and tablet screens.*
+
+---
