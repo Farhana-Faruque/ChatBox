@@ -36,28 +36,40 @@ Perfect for learning WebSockets and building interactive online apps.
 
 ### 🏠 Chat Interface
 ![Chat Interface](./images/joinName.png)
-*Main chat screen where users can send and receive messages instantly.*
+*Main chat screen where users can join and send messages instantly.*
 
 ---
 
 ### 💬 Sending Messages
-![Sending Message](./images/sending-message.png)
+![Sending Message](./images/messaging.png)
 *User typing and sending a message in a chat room.*
 
 ---
 
 ### 🏷️ Joining a Chat Room
-![Join Room](./images/join-room.png)
+![Join Room](./images/peopleJoin.png)
 *Users can enter their name and join different chat rooms.*
 
 ---
 
-### 📱 Responsive Design
-![Responsive View](./images/responsive-view.png)
-*ChatBox layout adapts smoothly to mobile and tablet screens.*
+
+### 🚪 Leaving the Chat
+![Chat Leave](./images/chatLeave.png)
+*Displays a system notification when a user leaves the chat room.*
 
 ---
 
+### 😊 Emoji Messages
+![Emoji Text](./images/emojiText.png)
+*Users can send fun emoji messages to make conversations more interactive and expressive.*
+
+---
+
+### 👥 Group Messaging
+![Group Message](./images/groupMsg.png)
+*Multiple users chatting together in a shared group room with real-time message updates.*
+
+---
 
 ##  Installation
 
