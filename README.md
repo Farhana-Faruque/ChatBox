@@ -31,22 +31,11 @@ Perfect for learning WebSockets and building interactive online apps.
 
 ---
 
-##  Installation
-
-###  Prerequisites
-
-Make sure you have **Node.js** installed:
-
-```bash
-node -v
-npm -v
-
----
 
 ## 📸 Application Preview
 
 ### 🏠 Chat Interface
-![Chat Interface](./images/chat-interface.png)
+![Chat Interface](./images/joinName.png)
 *Main chat screen where users can send and receive messages instantly.*
 
 ---
@@ -66,5 +55,18 @@ npm -v
 ### 📱 Responsive Design
 ![Responsive View](./images/responsive-view.png)
 *ChatBox layout adapts smoothly to mobile and tablet screens.*
+
+---
+
+
+##  Installation
+
+###  Prerequisites
+
+Make sure you have **Node.js** installed:
+
+```bash
+node -v
+npm -v
 
 ---
